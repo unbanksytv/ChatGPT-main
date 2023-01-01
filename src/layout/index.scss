@@ -1,0 +1,32 @@
+.chat-logo {
+  text-align: center;
+  padding: 5px 0;
+
+  img {
+    width: 48px;
+    height: 48px;
+  }
+}
+
+.ant-layout-sider-trigger {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.chat-container {
+  padding: 20px;
+  overflow: hidden;
+}
+
+.ant-menu {
+  user-select: none;
+  -webkit-user-select: none;
+  .ant-menu-item {
+    background-color: #f8f8f8;
+  }
+}
+
+.ant-layout-footer {
+  color: #666 !important;
+  opacity: 0.7;
+}
